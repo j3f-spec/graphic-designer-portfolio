@@ -18,7 +18,7 @@ A modern, responsive portfolio website for graphic designers built with React an
 - **Framer Motion** - Animation library
 - **React Icons** - Icon library
 - **CSS3** - Styling
-
+<!--
 ## Installation
 
 1. Clone the repository:
@@ -38,7 +38,7 @@ npm start
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+-->
 ## Project Structure
 
 ```
@@ -85,7 +85,7 @@ Contact information and a contact form for inquiries.
 3. **Add Contact Information**: Update contact details in `src/pages/Contact.js`
 4. **Replace Images**: Update placeholder image URLs with your actual design images
 
-## Build for Production
+<!--## Build for Production
 
 ```bash
 npm run build
@@ -106,4 +106,4 @@ This project is open source and available under the MIT License.
 
 ## Support
 
-For questions or support, please create an issue in the repository.
+For questions or support, please create an issue in the repository.-->
